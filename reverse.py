@@ -5,3 +5,4 @@ while(n>0):
     rev=rev*10+dig
     n=n//10
 print("Reverse of the number:",rev)
+print("Reverse of the number:",rev)
